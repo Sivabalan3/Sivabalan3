@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hi i'm a passionate front-end developer and React.js specialist. Explore projects showcasing my development skills, learn about my experience, and get in touch for collaborations</p>
+<p align="left">Hi, I'm <b>front-end developer</b> and <b>React.js specialist,</b> I am passionate about creating unique and intuitive user experiences through responsive web design and efficient code. With several years of experience in this field, I have honed my skills in building scalable, maintainable, and robust web applications using <b>React, Redux,</b> and other related technologies. Additionally, <b>I am an photoshop designer</b> and who can work well both independently and collaboratively in a fast-paced environment while prioritizing deadline-driven tasks. In my free time, I enjoy staying current with the latest React updates and exploring new programming concepts to enhance my knowledge and expertise.</p>
 
 ###
 
