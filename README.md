@@ -88,68 +88,14 @@
 </div>
 
 ###TABLE
-<table cellspacing="5" cellpadding="5" width="100%">
-  <tr> 
-    <td align="center">
-      <a href="https://nodejs.org/">
-        <img src="assets/svg/nodejs.svg"/><br>NodeJS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://typescriptlang.org">
-        <img src="assets/svg/typescript.svg"/><br>TypeScript
-      </a>  
-    </td>
-    <td align="center">
-      <a href="https://reactjs.org">
-        <img src="assets/svg/react.svg"/><br>React
-      </a>  
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/appsync/">
-        <img src="assets/svg/appsync.svg" height="75px"><br>App Sync
-      </a>  
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/cdk">
-        <img src="assets/svg/cdk.svg" height="75px"><br>AWS CDK
-      </a>
-    </td>
-
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://aws.amazon.com/serverless">
-        <img src="assets/svg/serverless.svg"  height="75px"/><br>Serverless
-      </a>  
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/step-functions">
-        <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Step Functions
-      </a>  
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/api-gateway">
-        <img src="assets/svg/apigateway.svg" height="75px"/><br>API Gateway
-      </a>  
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/lambda">
-        <img src="assets/svg/lambda.svg" height="75px"/><br>Lambda
-      </a>  
-    </td>
-        <td align="center">
-      <a href="https://aws.amazon.com/dynamodb">
-        <img src="assets/svg/dynamodb.svg"  height="75px"/><br>DynamoDB
-      </a>  
-    </td>
-  </tr>
-  <tr>
-   
-  
-    
-   
-   
-  </tr>
-</table>
+| Description                                                              | Repository                                                                | Website                                                                           |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![](/assets/img/git-repository-line.svg) Showcase                        | [repository](https://github.com/asudbury/showcase)                        | https://asudbury.github.io/showcase                                        |
+| ![](/assets/img/git-repository-line.svg) React OpenAI                    | [repository](https://github.com/asudbury/react-openai)                    | https://asudbury.github.io/react-openai                                    |
+| ![](/assets/img/git-repository-line.svg) NextJS Material Dashboard       | [repository](https://github.com/asudbury/nextjs-material-dashboard)       | https://nextjs-material-dashboard-two.vercel.app                           |
+| ![](/assets/img/git-repository-line.svg) NextJS Hello World              | [repository](https://github.com/asudbury/nextjs-hello-world)              | https://nextjs-hello-world-blush.vercel.app                                |
+| ![](/assets/img/git-repository-line.svg) SpaceX Launches                 | [repository](https://github.com/asudbury/spacex-launches)                 | https://asudbury.github.io/spacex-launches                                 |
+| ![](/assets/img/git-repository-line.svg) React Admin Simple              | [repository](https://github.com/asudbury/react-admin-simple)              | https://asudbury.github.io/react-admin-simple                              |
+| ![](/assets/img/git-repository-line.svg) React Admin Tutorial            | [repository](https://github.com/asudbury/react-admin-tutorial)            | https://asudbury.github.io/react-admin-tutorial                            |
+| ![](/assets/img/git-repository-line.svg) React Admin CRM                 | [repository](https://github.com/asudbury/react-admin-crm)                 | https://asudbury.github.io/react-admin-crm                                 |
 
