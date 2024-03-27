@@ -90,7 +90,7 @@
 ###
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![](/assets/img/git-repository-line.svg)<span style="color: green"> React CRUD APP </span>                        | [repository](https://github.com/Sivabalan3/react-crud)                        | https://sivabalan3.github.io/react-crud/                                       |
+| ![](/assets/img/git-repository-line.svg) React CRUD APP                        | [repository](https://github.com/Sivabalan3/react-crud)                        | https://sivabalan3.github.io/react-crud/                                       |
 | ![](/assets/img/git-repository-line.svg) React Quiz App                    | [repository](https://github.com/Sivabalan3/quiz-react)                    | https://asudbury.github.io/react-openai                                    |
 | ![](/assets/img/git-repository-line.svg) Journalist Course Website       | [repository](https://github.com/Sivabalan3/avesa-intern)                    | https://arun-journalist.netlify.app/                           |
 | ![](/assets/img/git-repository-line.svg) My Portfolio Website             | [repository](https://github.com/Sivabalan3/Portfolio_Full_Stack)              | https://sivabalan.netlify.app/                                
