@@ -90,8 +90,8 @@
 ###TABLE
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![](/assets/img/git-repository-line.svg) Showcase                        | [repository](https://github.com/asudbury/showcase)                        | https://asudbury.github.io/showcase                                        |
-| ![](/assets/img/git-repository-line.svg) React OpenAI                    | [repository](https://github.com/asudbury/react-openai)                    | https://asudbury.github.io/react-openai                                    |
+| ![](/assets/img/git-repository-line.svg) React CRUD APP                        | [repository](https://github.com/Sivabalan3/react-crud)                        | https://github.com/Sivabalan3/react-crud                                        |
+| ![](/assets/img/git-repository-line.svg) React Quiz App                    | [repository](https://github.com/Sivabalan3/quiz-react)                    | https://asudbury.github.io/react-openai                                    |
 | ![](/assets/img/git-repository-line.svg) NextJS Material Dashboard       | [repository](https://github.com/asudbury/nextjs-material-dashboard)       | https://nextjs-material-dashboard-two.vercel.app                           |
 | ![](/assets/img/git-repository-line.svg) NextJS Hello World              | [repository](https://github.com/asudbury/nextjs-hello-world)              | https://nextjs-hello-world-blush.vercel.app                                |
 | ![](/assets/img/git-repository-line.svg) SpaceX Launches                 | [repository](https://github.com/asudbury/spacex-launches)                 | https://asudbury.github.io/spacex-launches                                 |
