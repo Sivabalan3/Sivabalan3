@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="1000" src="https://media.licdn.com/dms/image/D4E16AQHnUTI0OtVZ9Q/profile-displaybackgroundimage-shrink_350_1400/0/1690042450301?e=1714608000&v=beta&t=bzAEmw2ecp_elfZz7GYqGZusEtBL80ic5vmelll4c_4"  />
+  <img height="200" width="1000" src="https://www.linkedin.com/in/sivabalan-m-404885284/overlay/background-image/"  />
 </div>
 
 ###
